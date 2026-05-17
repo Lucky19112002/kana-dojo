@@ -1,3 +1,4 @@
+[
 {
     "japanese": "痩蛙 負けるな一茶 これにあり",
     "romaji": "Yasegaeru / makeru na Issa / kore ni ari",
@@ -6,4 +7,14 @@
     "season": "Spring",
     "kigo": "Frog (kaeru)",
     "notes": "Humorous encouragement and compassion in Issa's voice."
+  },
+  {
+    "japanese": "夏草や\n兵どもが\n夢の跡",
+    "romaji": "Natsukusa ya / tsuwamono domo ga / yume no ato",
+    "english": "Summer grasses; all that remains of warriors' dreams.",
+    "poet": "Matsuo Basho",
+    "season": "Summer",
+    "kigo": "Summer grasses (natsukusa)",
+    "notes": "Reflects impermanence through a historical battlefield image."
   }
+]
