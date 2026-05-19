@@ -669,7 +669,9 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "wsimon1982",
+    "completedPR": 17407
   },
   {
     "id": 49,
